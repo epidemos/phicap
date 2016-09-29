@@ -1,3 +1,4 @@
 book_filename: "phicap"
-chapter_name: "Chapter "
+# chapter_name: "Chapter "
+chapter_name: ""
 output_dir: "docs"

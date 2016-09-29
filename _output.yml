@@ -1,5 +1,5 @@
-# bookdown::pdf_book:
-bookdown::tufte_book2:
+bookdown::pdf_book:
+# bookdown::tufte_book2:
   includes:
     in_header: preamble.tex
   # latex_engine: xelatex
