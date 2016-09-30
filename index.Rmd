@@ -1,5 +1,10 @@
 --- 
-title: "Public Health Information among Crisis-Affected Populations"
+title: 'Public Health Information among Crisis-Affected Populations'
+# title: |
+#   |  Public Health 
+#   | Information among 
+#   | Crisis-Affected 
+#   | Populations
 author: "Jonathan Polonsky"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -15,7 +20,7 @@ fontsize: 12pt
 url: 'https\://epidemos.com/phicap/'
 github-repo: epidemos/phicap
 cover-image: img/sl_map.jpg
-description: "This is a description of the public health information required to support crisis-affected populations, and a guide to employing the methods used to collect such information."
+description: "A description of the public health information required to support crisis-affected populations, and a guide to employing the methods used to collect such information."
 ---
 
 
