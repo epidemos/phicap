@@ -38,7 +38,7 @@ lapply(c('DT', 'citr'), function(pkg) {
 # Preface {-}
 
 ```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html')}
-knitr::include_graphics('img/sl_map.jpg')
+knitr::include_graphics('img/cover_phicap.png')
 ```
 
 
